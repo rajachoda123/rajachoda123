@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rajachoda123
-- 👀 I’m interested in java,microservices,python,reactjs,spark,bigdata
+- 👀 I’m interested in java,microservices,angular,python,reactjs,spark,bigdata
 - 🌱 I’m currently learning AWS,Azure,GCP
 - 💞️ I’m looking to collaborate on ..
 - 📫 How to reach me ...
